@@ -12,14 +12,14 @@ Busco construir soluções que combinem **qualidade de dados, validação confi�
 
 ## 📑 Índice
 
-- [Tech Stack](#-tech-stack)
-- [Projetos em Destaque](#-projetos-em-destaque)
-  - [B2B Credit Risk Prediction](#-b2b-credit-risk-prediction)
-  - [Customer Churn Prediction](#-customer-churn-prediction)
-  - [Sentiment Analysis API](#-sentiment-analysis-api)
-- [Princípios de Engenharia](#-princípios-de-engenharia)
-- [Atualmente Estudando](#-atualmente-estudando)
-- [Contato](#-contato)
+- [Tech Stack](#tech-stack)
+- [Projetos em Destaque](#projetos-em-destaque)
+  - [B2B Credit Risk Prediction](#b2b-credit-risk-prediction)
+  - [Customer Churn Prediction](#customer-churn-prediction)
+  - [Sentiment Analysis API](#sentiment-analysis-api)
+- [Princípios de Engenharia](#princípios-de-engenharia)
+- [Atualmente Estudando](#atualmente-estudando)
+- [Contato](#contato)
 
 ---
 
