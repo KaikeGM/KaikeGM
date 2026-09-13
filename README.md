@@ -23,6 +23,7 @@ Busco construir soluções que combinem **qualidade de dados, validação confi�
 
 ---
 
+<a name="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 ### 📊 Data & Analytics
@@ -63,8 +64,10 @@ Busco construir soluções que combinem **qualidade de dados, validação confi�
 
 ---
 
+<a name="projetos-em-destaque"></a>
 # 🚀 Projetos em Destaque
 
+<a name="b2b-credit-risk-prediction"></a>
 ## 💳 B2B Credit Risk Prediction
 
 Pipeline de **Machine Learning para previsão de risco de inadimplência B2B**, utilizando dados históricos e comportamentais para apoiar segmentação de risco e priorização de clientes.
@@ -95,6 +98,7 @@ Pipeline de **Machine Learning para previsão de risco de inadimplência B2B**, 
 
 ---
 
+<a name="customer-churn-prediction"></a>
 ## 📉 Customer Churn Prediction
 
 Projeto de **Machine Learning para identificação de clientes com maior risco de cancelamento**, explorando características comportamentais, contratuais e padrões associados ao churn.
@@ -116,6 +120,7 @@ Projeto de **Machine Learning para identificação de clientes com maior risco d
 
 ---
 
+<a name="sentiment-analysis-api"></a>
 ## 💬 Sentiment Analysis API
 
 Projeto colaborativo de **Processamento de Linguagem Natural (NLP)** para classificação de sentimentos em textos em português e espanhol.
@@ -137,6 +142,7 @@ A solução combina processamento de texto, vetorização e Machine Learning com
 
 ---
 
+<a name="princípios-de-engenharia"></a>
 # ⚙️ Princípios de Engenharia
 
 Nos meus projetos, procuro aplicar boas práticas além do treinamento do modelo:
@@ -152,6 +158,7 @@ Nos meus projetos, procuro aplicar boas práticas além do treinamento do modelo
 
 ---
 
+<a name="atualmente-estudando"></a>
 # 📚 Atualmente Estudando
 
 - 🔎 Model Interpretability
@@ -162,6 +169,7 @@ Nos meus projetos, procuro aplicar boas práticas além do treinamento do modelo
 
 ---
 
+<a name="contato"></a>
 # 📫 Contato
 
 <p>
